@@ -1,0 +1,4 @@
+if game.PlaceId == 6839171747 then -- Doors
+	pcall(function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/MakuGeb/Maku-Hub-Doors/main/Maku%20Hub%20Doors%20obf.lua"))() 
+	end)
